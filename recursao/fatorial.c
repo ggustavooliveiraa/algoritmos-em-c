@@ -2,7 +2,7 @@
 
 int fatorial(int n){
     if(n == 0 || n ==1){
-    printf("soma(%d) = 1\n", n);
+    printf("fatorial(%d) = 1\n", n);
     return 1;
     }
     
